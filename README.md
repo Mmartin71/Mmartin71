@@ -2,7 +2,7 @@
 
 <!--
 Olá, eu sou o (Marcos)!
-Here are some ideas to get you started:
+
 
 - 🔭 Estudante de Desenvolvimento de Sistemas
 - 🌱 Focado em Python, C#, CSS
