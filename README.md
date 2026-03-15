@@ -6,7 +6,9 @@ Olá, eu sou o Marcos!
 - 👯 Preparando-se para o mercado de tecnologia
 - 🤔Contato: mantoniomartin@gmail.com
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:mantoniomartin@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcos-martin-3a5b6854/)
+
 
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
